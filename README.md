@@ -36,7 +36,7 @@ Este proyecto fue creado para seguir practicando el consumo de APIs, el manejo d
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 src/
 ├── components/
 │ ├── WeatherCard.jsx
@@ -50,7 +50,7 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-
+```
 ---
 
 ## 🎨 Diseño visual
@@ -99,7 +99,7 @@ npm install
 npm run dev
 ```
 Luego abrí http://localhost:5173 en tu navegador 🚀
----
+
 ##🌱 Futuras mejoras
 
 -📍 Geolocalización automática del usuario.
