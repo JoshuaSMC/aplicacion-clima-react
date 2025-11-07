@@ -100,15 +100,15 @@ npm run dev
 ```
 Luego abrí http://localhost:5173 en tu navegador 🚀
 
-##🌱 Futuras mejoras
+## 🌱 Futuras mejoras
 
--📍 Geolocalización automática del usuario.
--🌤️ Pronóstico extendido de 5 días.
--🎨 Modo oscuro/claro.
--💬 Traducción de descripciones meteorológicas.
--🧭 Animaciones y transiciones más fluidas.
+- 📍 Geolocalización automática del usuario.
+- 🌤️ Pronóstico extendido de 5 días.
+- 🎨 Modo oscuro/claro.
+- 💬 Traducción de descripciones meteorológicas.
+- 🧭 Animaciones y transiciones más fluidas.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desarrollado por Joshua SMC
 
