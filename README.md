@@ -103,13 +103,9 @@ Luego abrí http://localhost:5173 en tu navegador 🚀
 ##🌱 Futuras mejoras
 
 -📍 Geolocalización automática del usuario.
-
 -🌤️ Pronóstico extendido de 5 días.
-
 -🎨 Modo oscuro/claro.
-
 -💬 Traducción de descripciones meteorológicas.
-
 -🧭 Animaciones y transiciones más fluidas.
 
 👨‍💻 Autor
